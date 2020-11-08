@@ -1,0 +1,13 @@
+C:\Users\omarb\source\repos\IntroductionXamarin\IntroductionXamarin\IntroductionXamarin\bin\Debug\netstandard2.0\IntroductionXamarin.deps.json
+C:\Users\omarb\source\repos\IntroductionXamarin\IntroductionXamarin\IntroductionXamarin\bin\Debug\netstandard2.0\IntroductionXamarin.dll
+C:\Users\omarb\source\repos\IntroductionXamarin\IntroductionXamarin\IntroductionXamarin\bin\Debug\netstandard2.0\ref\IntroductionXamarin.dll
+C:\Users\omarb\source\repos\IntroductionXamarin\IntroductionXamarin\IntroductionXamarin\bin\Debug\netstandard2.0\IntroductionXamarin.pdb
+C:\Users\omarb\source\repos\IntroductionXamarin\IntroductionXamarin\IntroductionXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\omarb\source\repos\IntroductionXamarin\IntroductionXamarin\IntroductionXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\omarb\source\repos\IntroductionXamarin\IntroductionXamarin\IntroductionXamarin\obj\Debug\netstandard2.0\IntroductionXamarin.AssemblyInfoInputs.cache
+C:\Users\omarb\source\repos\IntroductionXamarin\IntroductionXamarin\IntroductionXamarin\obj\Debug\netstandard2.0\IntroductionXamarin.AssemblyInfo.cs
+C:\Users\omarb\source\repos\IntroductionXamarin\IntroductionXamarin\IntroductionXamarin\obj\Debug\netstandard2.0\IntroductionXamarin.csproj.CoreCompileInputs.cache
+C:\Users\omarb\source\repos\IntroductionXamarin\IntroductionXamarin\IntroductionXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\omarb\source\repos\IntroductionXamarin\IntroductionXamarin\IntroductionXamarin\obj\Debug\netstandard2.0\IntroductionXamarin.dll
+C:\Users\omarb\source\repos\IntroductionXamarin\IntroductionXamarin\IntroductionXamarin\obj\Debug\netstandard2.0\ref\IntroductionXamarin.dll
+C:\Users\omarb\source\repos\IntroductionXamarin\IntroductionXamarin\IntroductionXamarin\obj\Debug\netstandard2.0\IntroductionXamarin.pdb
